@@ -68,9 +68,25 @@ html {
 	
 }
 .imw{
-		margin: 1px;	
+
+	width: 30px;
+		
+}
+.menucomleto{
+    
+	display:block;
+	margin: auto auto;
+     margin-bottom: 20px;
+	margin-top: 20px;
 
 }
+.img-logo-menu{
+
+	width: 60px;
+}
+
+
+
 /* Whatsapp */
 .Whatsapp{
 
