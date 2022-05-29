@@ -124,7 +124,8 @@ html {
 }
 .nuestro{
     color: #bca978;
-	font-family: 30px cursive ;
+	font-family: cursive ;
+	font-size: 30px;
 }
 .Revisa{
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -303,9 +304,23 @@ html {
 	color: #FFF;
 	font-family: 'poppinsregular';
 	text-align: center;
-	font-size: 27px;
+	font-size: 30px;
 }
+.estancia{
 
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font: bold ;
+	font-size: 40px;
+}
+.Ven{
+	font-size: 30pxpx;
+}
+.text-uppercase1{
+
+	font-family: cursive;
+
+	font-size: 40px;
+}
 .banner::before {
 	content: "";
 	background: #000000;
