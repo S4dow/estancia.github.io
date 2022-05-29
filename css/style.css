@@ -78,7 +78,7 @@ html {
 	margin-right: auto;
      margin-bottom: 20px;
 	margin-top: 20px;
-	width: 50%;
+	width: 70%;
 	
 
 }
@@ -104,8 +104,8 @@ html {
 	display: flex;
 	align-items: center;
 	flex-direction: column;
-   width: 300px;
-   height: 200px;
+   width: 350px;
+   height: 250px;
    box-shadow: -7px 8px 41px -8px rgba(0,0,0,0.75);
    -webkit-box-shadow: -7px 8px 41px -8px rgba(0,0,0,0.75);
    -moz-box-shadow: -7px 8px 41px -8px rgba(0,0,0,0.75);
