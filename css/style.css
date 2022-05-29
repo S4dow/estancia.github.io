@@ -63,13 +63,20 @@ html {
 /* precio menu  */
 .lopex {
 	color: black;
-	font-weight: bold;
-	background-color: #b2bec3;
-	border-radius: 20px;
+	font-weight: lighter;
+	background-color: #ffffff;
+	border-radius: 10px;
 	margin: 10px;
+	box-shadow: 3px 4px 11px 6px rgba(0,0,0,0.39);
+-webkit-box-shadow: 3px 4px 11px 6px rgba(0,0,0,0.39);
+-moz-box-shadow: 3px 4px 11px 6px rgba(0,0,0,0.39);
 	
 }
-
+.bordes{
+	box-shadow: 1px -1px 15px 0px rgba(0,0,0,0.75);
+	-webkit-box-shadow: 1px -1px 15px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 1px -1px 15px 0px rgba(0,0,0,0.75);
+}
 
 .menucomleto{
     
@@ -78,7 +85,7 @@ html {
 	margin-right: auto;
      margin-bottom: 20px;
 	margin-top: 20px;
-	width: 70%;
+	
 	
 
 }
