@@ -473,26 +473,64 @@ a:focus {
     position: relative;
     margin-top: 20px;
     display: flex;
-    border: 3px solid #ccc;
 }
+
 
 .booking .booking-content {
     padding: 45px 0 15px 0;
+   
 }
 
 .booking .booking-content .section-header {
     margin-bottom: 30px;
 }
 
-
 .booking-form{
- 
-    background: #eef7f3;
-    border: 1px solid #ccc;
-    position: relative;
- 
 
+     top: 500px;
+     left: 900px;  
+     background: #eef7f3;
+     border-radius: 3%;
+     text-align: center;
 }
+
+
+.home_whatsapp_titie{
+    color: #333333;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    font-size: 220%;
+     margin:2%;
+}
+
+
+  .home_whatsapp_descripcion{
+   
+    font-family: 'Nunito', sans-serif;
+    color: #454545;
+     margin:2%;
+
+
+  
+}
+.booking .booking-form a {
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #00bb2d ;
+    font-size: 300%;
+    color: #ffffff;
+    width: 300px;
+    height: 60px;
+    border-radius: 4cqmax;
+    margin:8%;
+ position: relative;
+ left: 30px;
+}
+
+
+
 
 
 
